@@ -1,3 +1,5 @@
+Ratthabiz / Flarum-thai
+
 -  Install
 ```
 composer require ratthabiz/flarum-thai
