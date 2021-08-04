@@ -1,5 +1,5 @@
 {
-    "name": "ratthabiz/flarum-thai",
+    "name": "flarum-lang/thai",
     "type": "flarum-extension",
     "description": "Thai language pack.",
     "keywords": ["locale", "thai"],
