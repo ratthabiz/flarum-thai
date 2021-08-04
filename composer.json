@@ -1,21 +1,21 @@
 {
-    "name": "flarum-lang/japanese",
+    "name": "ratthabiz/flarum-thai",
     "type": "flarum-extension",
     "description": "Thai language pack.",
     "keywords": ["locale", "thai"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^1.0"
+        "flarum/core": "^1.0.4"
     },
     "authors": [
         {
-            "name": "takumi9942",
-            "homepage": "https://github.com/takumi9942"
+            "name": "ratthabiz",
+            "homepage": "https://github.com/ratthabiz"
         }
     ],
     "extra": {
         "flarum-extension": {
-            "title": "Japanese",
+            "title": "Thai",
             "category": "language",
             "info": {
                 "donate": "https://flarum.org/donate/",
@@ -30,8 +30,8 @@
             }
         },
         "flarum-locale": {
-            "code": "ja",
-            "title": "Japanese"
+            "code": "th",
+            "title": "Thai"
         }
     }
 }
