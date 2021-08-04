@@ -5,7 +5,7 @@
     "keywords": ["locale", "thai"],
     "license": "MIT",
     "require": {
-        "flarum/core": "dev-master"
+        "flarum/core": "dev"
     },
     "authors": [
         {
