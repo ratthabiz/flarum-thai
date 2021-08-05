@@ -5,15 +5,15 @@
 
 - Updating
 ```
-composer require flarum-lang/japanese
+composer require ratthabiz/flarum-thai
 ```
 - Updating
 ```
-composer update flarum-lang/japanese
+composer update ratthabiz/flarum-thai
 ```
 - Uninstallation
 ```
-composer remove flarum-lang/japanese
+composer remove ratthabiz/flarum-thai
 ```
 
 ## Progress
