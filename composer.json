@@ -1,8 +1,8 @@
 {
     "name": "ratthabiz/flarum-thai",
+    "description": "Thai Language for Flarum",
     "type": "flarum-extension",
-    "description": "Thai language pack.",
-    "keywords": ["locale", "thai"],
+    "keywords": ["flarum", "extension", "locale", "thai"],
     "license": "MIT",
     "require": {
         "flarum/core": "^1.0.4"
@@ -13,18 +13,22 @@
             "homepage": "https://github.com/ratthabiz"
         }
     ],
+    "support": {
+        "issues": "https://github.com/ratthabiz/flarum-thai/issues",
+        "source": "https://github.com/ratthabiz/flarum-thai"
+    },
     "extra": {
         "flarum-extension": {
             "title": "Thai",
             "category": "language",
             "info": {
-                "donate": "https://flarum.org/donate/",
-                "website": "https://flarum.org",
-                "support": "https://discuss.flarum.org"
+                "website": "https://github.com/ratthabiz/flarum-thai",
+                "support": "https://github.com/ratthabiz/flarum-thai/issues",
+                "official": "https://flarum.org"
             },
             "icon": {
                 "image": "icon.svg",
-                "backgroundColor": "#00247d",
+                "backgroundColor": "#FFF",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
             }
